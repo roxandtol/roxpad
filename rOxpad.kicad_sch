@@ -1458,7 +1458,7 @@
     (property "Value" "Molex-0548190589" (id 1) (at 153.035 29.21 90)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (id 2) (at 154.94 39.37 0)
+    (property "Footprint" "random-keyboard-parts:Molex-0548190589" (id 2) (at 154.94 39.37 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 154.94 39.37 0)
@@ -1733,7 +1733,7 @@
     (uuid eba00549-67ff-4f83-9a55-44db8913d52d)
     (property "Reference" "SW1" (id 0) (at 64.77 29.21 0))
     (property "Value" "SW_Push" (id 1) (at 64.77 31.75 0))
-    (property "Footprint" "" (id 2) (at 64.77 31.75 0)
+    (property "Footprint" "random-keyboard-parts:SKQG-1155865" (id 2) (at 64.77 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 64.77 31.75 0)
@@ -1873,13 +1873,13 @@
       (reference "R4") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/eba00549-67ff-4f83-9a55-44db8913d52d"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_Push") (footprint "random-keyboard-parts:SKQG-1155865")
     )
     (path "/74076de0-c6fa-447a-ba76-bbb1ca74e2e2"
       (reference "U1") (unit 1) (value "ATmega32U4-A") (footprint "Package_QFP:TQFP-44_10x10mm_P0.8mm")
     )
     (path "/a3373ae3-0597-4f5e-81ea-f528b682f403"
-      (reference "USB1") (unit 1) (value "Molex-0548190589") (footprint "")
+      (reference "USB1") (unit 1) (value "Molex-0548190589") (footprint "random-keyboard-parts:Molex-0548190589")
     )
     (path "/6ae1b276-d408-4f41-881b-c66f44d934a7"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
