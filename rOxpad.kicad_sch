@@ -1673,7 +1673,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 172.9706 78.74 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap" (id 2) (at 156.21 84.455 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 156.21 84.455 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 156.21 84.455 0)
@@ -1724,7 +1724,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 147.5706 78.74 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap" (id 2) (at 130.81 84.455 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 130.81 84.455 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 130.81 84.455 0)
@@ -2177,7 +2177,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 160.2706 78.74 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-Hotswap" (id 2) (at 143.51 84.455 0)
+    (property "Footprint" "marbastlib-mx:SW_MX_HS_1u" (id 2) (at 143.51 84.455 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 143.51 84.455 0)
@@ -2268,13 +2268,13 @@
       (reference "F1") (unit 1) (value "Polyfuse_Small") (footprint "Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/782fd8a6-8a59-4468-aed8-e7f14a0f2386"
-      (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/f84ce8da-348a-401b-baf3-2d32c1b70a34"
-      (reference "MX2") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX2") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/514e299f-6221-4a3d-8063-7d0f70478444"
-      (reference "MX3") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-Hotswap")
+      (reference "MX3") (unit 1) (value "MX-NoLED") (footprint "marbastlib-mx:SW_MX_HS_1u")
     )
     (path "/a68f94c7-99b9-45a8-a7ce-5c56335f37d0"
       (reference "R1") (unit 1) (value "22") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
