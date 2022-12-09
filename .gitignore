@@ -5,5 +5,5 @@ _autosave-*
 *.kicad_pcb-bak
 #auto_saved_files#
 /#auto_saved_files/#
-jlcpcb/gerber/*
+jlcpcb/*
 random-keyboard-parts.pretty
