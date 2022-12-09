@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/rodriguetos/Github-Repos/rOxpad/rOxpad.kicad_sch</source>
-    <date>Thu Dec  8 21:41:57 2022</date>
+    <date>Fri 09 Dec 2022 20:12:55 CET</date>
     <tool>Eeschema 6.0.9</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -69,15 +69,6 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d8f56b0e-0919-4f96-9c61-2159093e9d25</tstamps>
     </comp>
-    <comp ref="C6">
-      <value>0.1uF</value>
-      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
-      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
-      <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="rOxpad.kicad_sch"/>
-      <sheetpath names="/" tstamps="/"/>
-      <tstamps>670519af-e509-43bc-afb7-fd0ca0854ce9</tstamps>
-    </comp>
     <comp ref="C7">
       <value>10uF</value>
       <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
@@ -125,7 +116,7 @@
     </comp>
     <comp ref="MX1">
       <value>MX-NoLED</value>
-      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="rOxpad.kicad_sch"/>
@@ -134,7 +125,7 @@
     </comp>
     <comp ref="MX2">
       <value>MX-NoLED</value>
-      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="rOxpad.kicad_sch"/>
@@ -143,7 +134,7 @@
     </comp>
     <comp ref="MX3">
       <value>MX-NoLED</value>
-      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <footprint>marbastlib-mx:SW_MX_HS_1u</footprint>
       <libsource lib="MX_Alps_Hybrid" part="MX-NoLED" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="rOxpad.kicad_sch"/>
@@ -234,7 +225,7 @@
     </comp>
     <comp ref="USB1">
       <value>HRO-TYPE-C-31-M-12</value>
-      <footprint>Type-C:HRO-TYPE-C-31-M-12-HandSoldering</footprint>
+      <footprint>Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12</footprint>
       <libsource lib="Type-C" part="HRO-TYPE-C-31-M-12" description=""/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="rOxpad.kicad_sch"/>
@@ -466,7 +457,6 @@
     <net code="1" name="+5V">
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
-      <node ref="C6" pin="1" pintype="passive"/>
       <node ref="C7" pin="1" pintype="passive"/>
       <node ref="F1" pin="2" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
@@ -492,7 +482,6 @@
       <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
-      <node ref="C6" pin="2" pintype="passive"/>
       <node ref="C7" pin="2" pintype="passive"/>
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
