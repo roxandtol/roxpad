@@ -7,3 +7,6 @@
 [submodule "keyswitch-kicad-library"]
 	path = keyswitch-kicad-library
 	url = https://github.com/perigoso/keyswitch-kicad-library
+[submodule "marbastlib"]
+	path = marbastlib
+	url = https://github.com/ebastler/marbastlib
