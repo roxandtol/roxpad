@@ -1560,7 +1560,7 @@
     (property "Value" "HRO-TYPE-C-31-M-12" (id 1) (at 123.825 27.94 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Type-C:HRO-TYPE-C-31-M-12-HandSoldering" (id 2) (at 129.54 44.45 0)
+    (property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" (id 2) (at 129.54 44.45 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 129.54 44.45 0)
@@ -2304,7 +2304,7 @@
       (reference "U2") (unit 1) (value "PRTR5V0U2X") (footprint "random-keyboard-parts:SOT143B")
     )
     (path "/2762ddf1-ec11-44d9-b2f7-0fe42b7f916e"
-      (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "Type-C:HRO-TYPE-C-31-M-12-HandSoldering")
+      (reference "USB1") (unit 1) (value "HRO-TYPE-C-31-M-12") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
     )
     (path "/6ae1b276-d408-4f41-881b-c66f44d934a7"
       (reference "Y1") (unit 1) (value "16MHz") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
