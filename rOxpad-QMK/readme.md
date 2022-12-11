@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Rodrigo](https://github.com/rOxANDtOl)
+* Keyboard Maintainer: [rOxANDtOl](https://github.com/r0xANDt0l)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
