@@ -15,7 +15,7 @@ You will need:
     |16 Mhz Crystal|1|C13738|
     |Polyfuse|1|C151162|
     |USB Type-C female connector|1|C165948|
-    |Diode array|1|C2827688|
+    |ESD protection circuit|1|C2827688|
     |Diodes|3|C81598|
     |0.1uF Capacitor|2|C49678|
     |1uF Capacitor|1|C28323|
