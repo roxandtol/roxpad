@@ -1,4 +1,4 @@
-// Copyright 2022 Rodrigo (@rOxANDtOl)
+// Copyright 2022 rOxANDtOl (@rOxANDtOl)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
