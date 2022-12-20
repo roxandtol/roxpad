@@ -27,7 +27,7 @@ You will need:
     |Kailh MX hotswap sockets|3|C2803348|
     
 1) The PCB design in [The releases tab](https://github.com/r0xANDt0l/rOxpad/releases/latest)
-1) The DXFs in [The case folder](/rOxpad-case/) cut with a laser cutter or a CNC at the height it says on the name of the file
+1) The DXFs in [The case folder](/rOxpad-case/) cut with a laser cutter or a CNC at the height it says on the name of the file OR the [3d design](https://www.printables.com/model/344904-3d-printed-case-for-roxpad)
 1) A soldering iron
 1) Solder with a flux core
 1) Flux
@@ -41,7 +41,7 @@ Now, to make the keypad, you will start by:
 (make sure to check the sides! There should be a dot on the corner of the MCU, and that dot should be on the upper side), And finally the resistors, capacitors
 and the Keilh hotswappable socket
 
-1) Stacking the first 2 layers of the Acrylic and then putting the PCB on top
+1) Stacking the first 2 layers of the Acrylic and then putting the PCB on top, In case you're using the 3d printed one, use the thin one, with the flat side facing the bottom
   
   First layer (Should be 3mm):
   
@@ -53,7 +53,7 @@ and the Keilh hotswappable socket
   ![image](https://user-images.githubusercontent.com/41841903/206813535-c3493d8a-3d35-4e91-ba91-51a4845ba40c.png)
 
 
-3) Add the rest of the layers to the Acrylic
+3) Add the rest of the layers to the Acrylic, if you're using the 3d design, make sure the one facing the top is the one with the holes for the switches
 
   Third layer (Should be 3mm)
   
