@@ -5,7 +5,7 @@ I've designed the keypad using [KiCad](https://www.kicad.org/) for the PCB, and 
 
 ---
 # Making it
-**⚠️⚠️⚠️ This keypad is still a WIP, but I've laid down all the fundamental things I want (except QMK) ⚠️⚠️⚠️**
+**⚠️⚠️⚠️ This keypad is still a WIP ⚠️⚠️⚠️**
 
 You will need:
 1) The components:
