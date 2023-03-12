@@ -16,7 +16,7 @@ You will need:
     |[SLSS49E Hall Effect sensor](https://www.lcsc.com/product-detail/Hall-Sensor_Slkor-SLKORMICRO-Elec-SLSS49E-3_C2904393.html)|3|
     
 1) The PCB design in [The releases tab](https://github.com/r0xANDt0l/rOxpad/releases/latest)
-1) The [3d design](https://www.printables.com/model/344904-3d-printed-case-for-roxpad)
+1) The [3d design](https://www.printables.com/model/421393-roxpad-v2)
 1) A soldering iron
 1) 4 m3*22 screws with their nuts
 1) Hot glue (for the feet)
