@@ -1,4 +1,4 @@
-/gerber/*
+*/gerber/*
 *-backups/
 _autosave-*
 *.kicad_sch-bak
@@ -6,3 +6,4 @@ _autosave-*
 #auto_saved_files#
 rOxpad-PCB/#auto_saved_files/#
 rOxpad-PCB/jlcpcb/*
+rOxpad-PCB/roxpad_gerber.zip
