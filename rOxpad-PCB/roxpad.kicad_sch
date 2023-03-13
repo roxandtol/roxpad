@@ -365,7 +365,7 @@
   (symbol (lib_id "49e:Hall_Sensor") (at 152.4 90.17 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3acfb6d5-15f9-45b9-81b8-a517ebb8e019)
-    (property "Reference" "Middle_Sensor1" (at 152.4 95.885 90)
+    (property "Reference" "H2" (at 152.4 96.52 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SS49E" (at 153.543 94.6912 0)
@@ -392,7 +392,7 @@
     (instances
       (project "roxpad"
         (path "/694accb5-9413-480b-b86e-37ee58c6ddde"
-          (reference "Middle_Sensor1") (unit 1)
+          (reference "H2") (unit 1)
         )
       )
     )
@@ -401,7 +401,7 @@
   (symbol (lib_id "49e:Hall_Sensor") (at 170.815 90.17 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cb500f10-8606-49bf-aa0a-0b397a16fa92)
-    (property "Reference" "Right_Sensor1" (at 170.815 95.885 90)
+    (property "Reference" "H3" (at 170.815 96.52 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SS49E" (at 171.958 94.6912 0)
@@ -428,7 +428,7 @@
     (instances
       (project "roxpad"
         (path "/694accb5-9413-480b-b86e-37ee58c6ddde"
-          (reference "Right_Sensor1") (unit 1)
+          (reference "H3") (unit 1)
         )
       )
     )
@@ -513,7 +513,7 @@
   (symbol (lib_id "49e:Hall_Sensor") (at 132.715 90.17 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f2d21b76-44a3-4070-8516-b02d7027b4cd)
-    (property "Reference" "Left_sensor1" (at 132.715 96.52 90)
+    (property "Reference" "H1" (at 132.715 96.52 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SS49E" (at 133.858 94.6912 0)
@@ -540,7 +540,7 @@
     (instances
       (project "roxpad"
         (path "/694accb5-9413-480b-b86e-37ee58c6ddde"
-          (reference "Left_sensor1") (unit 1)
+          (reference "H1") (unit 1)
         )
       )
     )
